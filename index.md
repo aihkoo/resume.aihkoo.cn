@@ -2,7 +2,7 @@
 # Language (Optional)
 lang: en
 # Site Keywords & Description
-keywords: Resume,Hexo,Resume Theme
+keywords: Resume,Hexo
 description: This is a cool resume theme for hexo.
 # Resume Title
 resume_title: Guodx's Resume
@@ -33,7 +33,7 @@ download:
 <grid>
 <avatar><img src="https://cdn.jsdelivr.net/gh/aihkoo/cdn-assets/portrait/portrait.jpg"></avatar>
 
-<h1>Guodx Resume</h1>
+<h1>Guodx's Resume</h1>
 <center>
 <a href='/'>English</a> | <a href='/zh-cn/'>简体中文</a>
 </center>
@@ -45,53 +45,52 @@ download:
 
 ## <i class="fas fa-user-graduate"></i> Education
 
-**XX University X College X Course X Major X Graduation**
+**2016 ~ Present Department of Automation, Tsinghua University  (Ph.D. candidate)**
 
-**XX University X College X Course X Major X Graduation**
+**2012 ~ 2016 Department of Automation, Tsinghua University  (B.E.)**
 
 
 ## <i class="fas fa-user-tie"></i> Work Experience
 
 
-#### 2000 ~ Present: Company XX
+#### Jul. 2019 ~ Present: Beijing Think Energy Technology Co., Ltd. Co-Founder CTO
 
-- Mainly responsible for XXX
+- Mainly responsible for Big data
 
-#### 1900 ~ 2000: Company XX
+#### Jul. 2018 ~ Aug. 2018: Windsun Science & Technology Co.,Ltd. R&D Engineer of PCS (Internship)
 
-- Mainly responsible for XXX
+- Mainly responsible for PCS
 
-#### 1800 ~ 1900: company XX
+#### Jul. 2015 ~ Oct. 2015: Beijing Zhigu Rui Tuo Tech Co., Ltd. Algorithm and Hardware Engineer (Internship)
 
-- Mainly responsible for XXX
+- Mainly responsible for Algorithm and Hardware
 
 
 
 ## <i class="fas fa-award"></i> Featured Papers
 
+### Physics-based fractional-order model with simplified solid phase diffusion of lithium-ion battery
 
-### Project A
+#### 2020: Journal of Energy Storage
 
-#### 2000/01 ~ 2019/01: Developed by XX company, team project, maintenance so far
+fractional-order modeling
 
-啦啦啦
+### Determination of the Differential Capacity of Lithium-Ion Batteries by the Deconvolution of Electrochemical Impedance Spectra
 
-### Project B
+#### 2020: Energies
 
-#### 1900/01 ~ 2000/01: Developed by XX company
+DRT
 
-啦啦啦
+### Transfer learning with back propagation neural network for aging modeling of lithium-ion battery
 
-### Project C
+#### 2020: Under review
 
-#### 1800/01 ~ 1900/01: Developed by XX company
-
-啦啦啦
+Aging modeling
 
 
 ## <i class="fas fa-phone-alt"></i> Contact
 
-Current：PhD。
+Current：Ph.D. candidate.
 
 <i class="fas fa-envelope fa-fw"></i> guodx12@gmail.com
 <i class="fas fa-phone-alt fa-fw"></i> 185xxxx7897
