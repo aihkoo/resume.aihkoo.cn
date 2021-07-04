@@ -25,7 +25,7 @@ contact:
 download:
   title: 下载简历
   icon: fas fa-download fa-fw
-  url: https://blog.aihkoo.cn
+  url: https://resume.aihkoo.cn
 ---
 
 {% raw %}
@@ -43,7 +43,7 @@ download:
 
 ## <i class="fas fa-user-graduate"></i> 教育背景
 
-**清华大学 自动化系 博士 2016 ~ 至今**
+**清华大学 自动化系 博士 2016 ~ 2021**
 
 **清华大学 自动化系 本科 2012 ~ 2016**
 
@@ -75,7 +75,7 @@ download:
 
 #### 2020：Journal of Energy Storage
 
-分数阶建模
+Fractional-order modeling
 
 ### Determination of the Differential Capacity of Lithium-Ion Batteries by the Deconvolution of Electrochemical Impedance Spectra
 
@@ -85,13 +85,13 @@ DRT
 
 ### Transfer learning with back propagation neural network for aging modeling of lithium-ion battery
 
-#### 2020：Under review
+#### 2021：International Journal of Energy Research
 
 Aging modeling
 
 ## <i class="fas fa-phone-alt"></i> 与我联系
 
-目前状态为：博士在读。
+目前状态为：努力创业中。
 
 <i class="fas fa-envelope fa-fw"></i> guodx12@gmail.com
 <i class="fas fa-phone-alt fa-fw"></i> 185xxxx7897

@@ -45,7 +45,7 @@ download:
 
 ## <i class="fas fa-user-graduate"></i> Education
 
-**2016 ~ Present Department of Automation, Tsinghua University  (Ph.D. candidate)**
+**2016 ~ 2021 Department of Automation, Tsinghua University  (Ph.D.)**
 
 **2012 ~ 2016 Department of Automation, Tsinghua University  (B.E.)**
 
@@ -83,14 +83,14 @@ DRT
 
 ### Transfer learning with back propagation neural network for aging modeling of lithium-ion battery
 
-#### 2020: Under review
+#### 2021: International Journal of Energy Research
 
 Aging modeling
 
 
 ## <i class="fas fa-phone-alt"></i> Contact
 
-Current：Ph.D. candidate.
+Current：Startup.
 
 <i class="fas fa-envelope fa-fw"></i> guodx12@gmail.com
 <i class="fas fa-phone-alt fa-fw"></i> 185xxxx7897
